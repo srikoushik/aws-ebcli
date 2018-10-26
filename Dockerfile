@@ -9,7 +9,9 @@ RUN apk --no-cache add \
         git \
         curl \
         python \
-        py-pip
+        py-pip \
+        nodejs-current \
+        nodejs-npm
 
 RUN pip install --upgrade pip \
         awsebcli \
