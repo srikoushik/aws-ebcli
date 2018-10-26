@@ -1,6 +1,6 @@
 # AWS CLI and AWS EB CLI tools
 
-Location on Docker Hub [`coxauto/aws-ebcli`](https://hub.docker.com/r/coxauto/aws-ebcli/)
+Location on Docker Hub [`srikoushik/aws-ebcli-node-docker`](https://hub.docker.com/r/srikoushik/aws-ebcli-node-docker/)
 
 A container for running:
 - AWS CLI
